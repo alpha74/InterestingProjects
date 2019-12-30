@@ -31,8 +31,8 @@ Lists the projects on Github of begineer and advanced level, open for contributi
   - mukul.csiitkgp@gmail.com
   
 - Instance
- - https://github.com/thebishaldeb/Instances
- - bsihaldeb656@gmail.com
+  - https://github.com/thebishaldeb/Instances
+  - bsihaldeb656@gmail.com
 
 - ConnectAll
   - https://github.com/thealphadollar/ConnectAll
