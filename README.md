@@ -8,15 +8,15 @@ Lists the projects on Github of begineer and advanced level, open for contributi
 ## List
 - MusicApp 
   - https://github.com/arteevraina/Music-App
-  -
+  -  arteevraina@gmail.com
 
 - mTracker
   - https://github.com/prashantsengar/mTracker
-  -
+  -  prashantsengar5@gmail.com
   
 - Magical Flute
   - https://github.com/coderbabu10/Magical-Flute
-  - 
+  - kumaramanjha2901@gmail.com
   
 - MathsDep_Website
   - https://github.com/AdarshKumar712/MathsDep_Website
@@ -24,19 +24,19 @@ Lists the projects on Github of begineer and advanced level, open for contributi
   
 - kaneki
   - https://github.com/mask-tech/kaneki
-  - 
+  - rka87338@gmail.com
  
 - izanami
   - https://github.com/Shankusu993/izanami/pull/6
-  - 
+  - mukul.csiitkgp@gmail.com
   
 - Instance
  - https://github.com/thebishaldeb/Instances
- - 
+ - bsihaldeb656@gmail.com
 
 - ConnectAll
   - https://github.com/thealphadollar/ConnectAll
-  - 
+  - manjunathbhat9920@gmail.com
   
 - hackbunch
   - https://github.com/snitch3s/hackbunch
