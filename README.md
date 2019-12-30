@@ -148,5 +148,7 @@ Lists the projects on Github of begineer and advanced level, open for contributi
    
 
 ## Sources:
-- https://kwoc.kossiitkgp.org/projects/
+- WoCs:
+  - IIT KGP: https://kwoc.kossiitkgp.org/projects/
+  - IIT ISM Dhanbad: https://woc.cyberlabs.club/
 
